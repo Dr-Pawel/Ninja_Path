@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ninja_Path")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a18b0c0a630d99729a8619efe8923fa0dfcbe554")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ninja_Path")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ninja_Path")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

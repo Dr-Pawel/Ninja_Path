@@ -1,0 +1,15 @@
+E:\Programming\C# projects\Ninja Path\Ninja_Path\bin\Debug\net8.0\Ninja_Path.exe
+E:\Programming\C# projects\Ninja Path\Ninja_Path\bin\Debug\net8.0\Ninja_Path.deps.json
+E:\Programming\C# projects\Ninja Path\Ninja_Path\bin\Debug\net8.0\Ninja_Path.runtimeconfig.json
+E:\Programming\C# projects\Ninja Path\Ninja_Path\bin\Debug\net8.0\Ninja_Path.dll
+E:\Programming\C# projects\Ninja Path\Ninja_Path\bin\Debug\net8.0\Ninja_Path.pdb
+E:\Programming\C# projects\Ninja Path\Ninja_Path\obj\Debug\net8.0\Ninja_Path.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C# projects\Ninja Path\Ninja_Path\obj\Debug\net8.0\Ninja_Path.AssemblyInfoInputs.cache
+E:\Programming\C# projects\Ninja Path\Ninja_Path\obj\Debug\net8.0\Ninja_Path.AssemblyInfo.cs
+E:\Programming\C# projects\Ninja Path\Ninja_Path\obj\Debug\net8.0\Ninja_Path.csproj.CoreCompileInputs.cache
+E:\Programming\C# projects\Ninja Path\Ninja_Path\obj\Debug\net8.0\Ninja_Path.sourcelink.json
+E:\Programming\C# projects\Ninja Path\Ninja_Path\obj\Debug\net8.0\Ninja_Path.dll
+E:\Programming\C# projects\Ninja Path\Ninja_Path\obj\Debug\net8.0\refint\Ninja_Path.dll
+E:\Programming\C# projects\Ninja Path\Ninja_Path\obj\Debug\net8.0\Ninja_Path.pdb
+E:\Programming\C# projects\Ninja Path\Ninja_Path\obj\Debug\net8.0\Ninja_Path.genruntimeconfig.cache
+E:\Programming\C# projects\Ninja Path\Ninja_Path\obj\Debug\net8.0\ref\Ninja_Path.dll

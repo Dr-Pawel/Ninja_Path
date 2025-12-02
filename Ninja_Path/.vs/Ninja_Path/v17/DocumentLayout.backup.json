@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{7C03213D-0562-46E2-9C11-6E1156EB078F}|Ninja_Path.csproj|e:\\programming\\c# projects\\ninja path\\ninja_path\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C03213D-0562-46E2-9C11-6E1156EB078F}|Ninja_Path.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03213D-0562-46E2-9C11-6E1156EB078F}|Ninja_Path.csproj|e:\\programming\\c# projects\\ninja path\\ninja_path\\enemy\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03213D-0562-46E2-9C11-6E1156EB078F}|Ninja_Path.csproj|solutionrelative:enemy\\enemyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03213D-0562-46E2-9C11-6E1156EB078F}|Ninja_Path.csproj|e:\\programming\\c# projects\\ninja path\\ninja_path\\combatsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03213D-0562-46E2-9C11-6E1156EB078F}|Ninja_Path.csproj|solutionrelative:combatsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03213D-0562-46E2-9C11-6E1156EB078F}|Ninja_Path.csproj|e:\\programming\\c# projects\\ninja path\\ninja_path\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03213D-0562-46E2-9C11-6E1156EB078F}|Ninja_Path.csproj|solutionrelative:enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C03213D-0562-46E2-9C11-6E1156EB078F}|Ninja_Path.csproj|e:\\programming\\c# projects\\ninja path\\ninja_path\\items\\itemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C03213D-0562-46E2-9C11-6E1156EB078F}|Ninja_Path.csproj|solutionrelative:items\\itemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +40,62 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Programming\\C# projects\\Ninja Path\\Ninja_Path\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T21:10:34.154Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CombatSystem.cs",
+              "DocumentMoniker": "E:\\Programming\\C# projects\\Ninja Path\\Ninja_Path\\CombatSystem.cs",
+              "RelativeDocumentMoniker": "CombatSystem.cs",
+              "ToolTip": "E:\\Programming\\C# projects\\Ninja Path\\Ninja_Path\\CombatSystem.cs",
+              "RelativeToolTip": "CombatSystem.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwCUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:34:33.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\Programming\\C# projects\\Ninja Path\\Ninja_Path\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Enemy\\Enemy.cs",
+              "ToolTip": "E:\\Programming\\C# projects\\Ninja Path\\Ninja_Path\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Enemy\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:31:38.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyFactory.cs",
+              "DocumentMoniker": "E:\\Programming\\C# projects\\Ninja Path\\Ninja_Path\\Enemy\\EnemyFactory.cs",
+              "RelativeDocumentMoniker": "Enemy\\EnemyFactory.cs",
+              "ToolTip": "E:\\Programming\\C# projects\\Ninja Path\\Ninja_Path\\Enemy\\EnemyFactory.cs",
+              "RelativeToolTip": "Enemy\\EnemyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:28:48.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemFactory.cs",
+              "DocumentMoniker": "E:\\Programming\\C# projects\\Ninja Path\\Ninja_Path\\Items\\ItemFactory.cs",
+              "RelativeDocumentMoniker": "Items\\ItemFactory.cs",
+              "ToolTip": "E:\\Programming\\C# projects\\Ninja Path\\Ninja_Path\\Items\\ItemFactory.cs",
+              "RelativeToolTip": "Items\\ItemFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T16:25:40.023Z",
               "EditorCaption": ""
             }
           ]
